@@ -1,0 +1,6 @@
+services/*.pyc
+services/routes/*.pyc
+services/pilotDash.log
+services/pilotDash-*.log
+services/pilotDash-timed.log
+services/pilotDash-timed-*.log
